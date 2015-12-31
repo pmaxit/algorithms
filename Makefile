@@ -1,7 +1,7 @@
 # Makefile
 
 CC= clang++
-CFLAGS=
+CFLAGS= -g -std=c++11 -pedantic -Wno-c++11-extensions
 
 # typing 'make' will invoke the first target entry in the file
 TARGET= test
