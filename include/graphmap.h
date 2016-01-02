@@ -55,3 +55,18 @@ private:
 
 #endif // GRAPHMAP
 
+/*
+ * GraphMat<string> g(10);
+  // declare number of nodes
+
+
+ g.addEdges("a", "b");
+
+ g.addEdges("b", "c");
+ g.addEdges("c", "z");
+ g.addEdges("z", "a");
+
+ g.print();
+  //cout<<greater1<int>(2,3)<<endl;
+ */
+
